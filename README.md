@@ -2,7 +2,7 @@
 
 This project provides a simple and user-friendly chat interface powered by the DeepSeek R1 (1.5B) language model, running locally using Ollama. It's built using Streamlit for the UI and Ollama to serve the DeepSeek R1 model.
 
-![Streamlit Chat App Screenshot](streamlit_deepseek_ui.png) <!-- Replace with a screenshot if you have one -->
+![Streamlit Chat App Screenshot](https://github.com/vijaik2k7/deepseek_chat_app/blob/main/screenshot_deepseek_ui.png) <!-- Replace with a screenshot if you have one -->
 
 ## Features
 
